@@ -2,7 +2,7 @@
 title: Fluorescence Light Microscopy
 doi: 10.22002/D1.1464
 videoTitle: Escherichia coli
-video: 1_2_Ecoli.mp4
+video: 1_3_Ecoli.mp4
 videoAlt: 1_2.png
 collector: Howard Berg
 subsections: []
